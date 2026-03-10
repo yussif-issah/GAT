@@ -134,10 +134,6 @@ Models are evaluated using:
 - Test accuracy on held-out data
 - Attention map visualizations for interpretability
 
-## License
-
-This project is provided as-is for research and educational purposes.
-
 ## Notes
 
 - GPU acceleration is automatically enabled if CUDA is available
